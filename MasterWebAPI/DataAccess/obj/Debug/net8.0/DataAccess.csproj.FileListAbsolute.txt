@@ -1,0 +1,12 @@
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\bin\Debug\net8.0\DataAccess.deps.json
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\bin\Debug\net8.0\DataAccess.dll
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\bin\Debug\net8.0\DataAccess.pdb
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.AssemblyReference.cache
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfoInputs.cache
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.AssemblyInfo.cs
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.csproj.CoreCompileInputs.cache
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.dll
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\refint\DataAccess.dll
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\DataAccess.pdb
+D:\Basic\.net8\MasterWebAPI\MasterWebAPI\DataAccess\obj\Debug\net8.0\ref\DataAccess.dll
